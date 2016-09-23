@@ -1,2 +1,3 @@
 # miniproject
 PWI
+status
